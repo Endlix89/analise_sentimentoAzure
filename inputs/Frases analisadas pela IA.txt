@@ -1,0 +1,50 @@
+Frase 1: "O programador está procurando fervorosamente o erro do código criado."
+
+Foi analisada da seguinte maneira:
+
+1. Estrutura:
+
+Sujeito: O programador
+Predicado: está procurando
+Objeto direto: o erro
+Modificador adverbial: fervorosamente
+Complemento nominal: do código criado
+
+2. Aspectos semânticos:
+
+Verbo: "procurar" indica uma ação de busca diligente.
+Advérbio: "fervorosamente" intensifica a ação do verbo.
+Objeto direto: "o erro" indica o que está sendo buscado.
+Complemento nominal: "do código criado" especifica o tipo de erro que está sendo procurado.
+
+3. Aspectos estilísticos:
+
+A frase é clara, concisa e informativa.
+O uso do advérbio "fervorosamente" torna a frase mais expressiva e dinâmica.
+A frase está no presente do indicativo.
+
+
+
+Frase 2: "O site criado foi bem aceito pelos usuários pela facilidade de uso."
+
+Foi analisada da seguinte maneira:
+
+1. Estrutura:
+
+Sujeito: O site criado
+Predicado: foi bem aceito
+Agente da passiva: pelos usuários
+Complemento nominal: pela facilidade de uso
+
+2. Aspectos semânticos:
+
+Verbo: "ser bem aceito" indica que o site foi recebido de forma positiva pelos usuários.
+Agente da passiva: "pelos usuários" indica quem aceitou o site.
+Complemento nominal: "pela facilidade de uso" indica o motivo da boa recepção do site.
+
+3. Aspectos estilísticos:
+
+A frase é clara, concisa e informativa.
+A voz passiva torna a frase mais formal e impessoal.
+A frase está no pretérito perfeito passivo, o que indica que a ação foi concluída.
+
